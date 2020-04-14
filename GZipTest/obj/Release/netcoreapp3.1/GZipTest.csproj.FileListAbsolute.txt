@@ -1,0 +1,15 @@
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.exe
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.deps.json
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.runtimeconfig.json
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.runtimeconfig.dev.json
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.dll
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\GZipTest.pdb
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.csprojAssemblyReference.cache
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.AssemblyInfoInputs.cache
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.AssemblyInfo.cs
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.dll
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.pdb
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.genruntimeconfig.cache
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.csproj.CopyComplete
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\bin\Release\netcoreapp3.1\Crc32.NET.dll
+C:\Users\klara pacalova\source\repos\GZipTest\GZipTest\obj\Release\netcoreapp3.1\GZipTest.csproj.CoreCompileInputs.cache

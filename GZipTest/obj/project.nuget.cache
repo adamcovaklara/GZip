@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "syKyBCBwvSetHX4i9z/GJkPGb8NGl+VoRAorHuc2Gnh3scinMPrim05yx57jnorEaTbLNZA3jisKxJXY47dJeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klara pacalova\\source\\repos\\GZipTest\\GZipTest\\GZipTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klara pacalova\\.nuget\\packages\\crc32.net\\1.2.0\\crc32.net.1.2.0.nupkg.sha512",
+    "C:\\Users\\klara pacalova\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\klara pacalova\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
